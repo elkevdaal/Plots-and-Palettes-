@@ -22,8 +22,6 @@ basic_plot + scale_fill_manual(values = c('#E63946', '#457B9D')) +
   theme(plot.background = element_rect(color = 'white', fill = 'white'),
         strip.background = element_rect(color = 'white', fill = 'white'),
         panel.background = element_rect(color = 'black', fill = '#F1FAEE'))
-?element_rect()
-my_pal[1]
 
 #####END#####
   
